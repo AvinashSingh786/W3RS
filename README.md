@@ -1,5 +1,5 @@
-#Note
-This repository is no longer maintained, a alternative tool similar to this can be found here: [`https://github.com/AvinashSingh786/SecureRS`](SecureRS).
+# Note
+This repository is no longer maintained, an alternative tool can be found here: [`https://github.com/AvinashSingh786/SecureRS`](SecureRS).
 
 <img src="https://github.com/AvinashSingh786/W3RS/raw/master/static/assets/img/w3rs.png" height="150" width="350"/>
   
